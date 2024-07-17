@@ -1,0 +1,5 @@
+"..\OBJ\Objects\main.obj",
+"..\OBJ\Objects\temperature.obj",
+"..\OBJ\Objects\delay.obj" 
+TO "..\OBJ\Objects\Multi_Function_Display" 
+PRINT(".\Listings\Multi_Function_Display.m51") RAMSIZE(256) 
